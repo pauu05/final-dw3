@@ -1,0 +1,94 @@
+#nav {
+    background-color: rgb(46, 46, 46) !important;
+    height: 90px;
+}
+
+.nav-item a {
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 17px !important;
+    margin: 0 10px;
+    margin-top: 15px;
+}
+
+.navbar-brand {
+    margin-left: 100px;
+    font-size: 30px !important;
+    font-weight: 800;
+}
+
+form {
+    margin-right: 30px;
+}
+
+legend {
+    margin-left: 20px;
+    margin-bottom: 15px !important;
+    font-size: 25px !important;
+}
+
+input {
+    margin-right: 15px !important;
+    border-radius: 5px !important;
+}
+
+h1 {
+    font-size: 35px !important;
+    margin-bottom: 20px !important;
+}
+
+.btn-primary {
+    border-radius: 5px !important;
+    background-color: rgb(68, 68, 68) !important;
+    border-color: rgb(68, 68, 68) !important;
+    margin-right: 15px;
+}
+
+.usuario {
+    margin-left: 110px;
+}
+
+.usuario label {
+    margin: 15px 0px;
+}
+
+.usuario input {
+    border: none;
+    padding: 5px 10px;
+    width: 400px;
+}
+
+.input-nombre {
+    margin-left: 15px;
+}
+
+.input-email {
+    width: 418px !important;
+    margin-left: 15px;
+}
+
+.btn-usuario {
+    margin-top: 30px
+}
+
+.link-usuario {
+    text-decoration: none;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 5px !important;
+    background-color: rgb(68, 68, 68) !important;
+    border-color: rgb(68, 68, 68) !important;
+    margin-right: 20px;
+}
+
+.actualizar {
+    margin-top: 10px;
+    border: none;
+    padding: 7px 10px;
+}
+
+.table {
+    border: 10px solid rgb(48, 48, 48) !important;
+}
